@@ -1,0 +1,291 @@
+{
+    "a4": {
+        "name": "A",
+        "octave": 4,
+        "accidental": false,
+        "holesCovered": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    "a4b": {
+        "name": {
+            "sharp": "A♯",
+            "flat": "B♭"
+        },
+        "octave": 4,
+        "accidental": true,
+        "holesCovered": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12
+        ]
+    },
+    "b4": {
+        "name": "B",
+        "octave": 4,
+        "accidental": false,
+        "holesCovered": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "c5": {
+        "name": "C",
+        "octave": 5,
+        "accidental": false,
+        "holesCovered": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "c5d": {
+        "name": {
+            "sharp": "C♯",
+            "flat": "D♭"
+        },
+        "octave": 5,
+        "accidental": true,
+        "holesCovered": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "d5": {
+        "name": "D",
+        "octave": 5,
+        "accidental": false,
+        "holesCovered": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "d5e": {
+        "name": {
+            "sharp": "D♯",
+            "flat": "E♭"
+        },
+        "octave": 5,
+        "accidental": true,
+        "holesCovered": [
+            2,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "e5": {
+        "name": "E",
+        "octave": 5,
+        "accidental": false,
+        "holesCovered": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "f5": {
+        "name": "F",
+        "octave": 5,
+        "accidental": false,
+        "holesCovered": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "f5g": {
+        "name": {
+            "sharp": "F♯",
+            "flat": "G♭"
+        },
+        "octave": 5,
+        "accidental": true,
+        "holesCovered": [
+            2,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "g5": {
+        "name": "G",
+        "octave": 5,
+        "accidental": false,
+        "holesCovered": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "g5a": {
+        "name": {
+            "sharp": "G♯",
+            "flat": "A♭"
+        },
+        "octave": 5,
+        "accidental": true,
+        "holesCovered": [
+            2,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "a6": {
+        "name": "A",
+        "octave": 6,
+        "accidental": false,
+        "holesCovered": [
+            5,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "a6b": {
+        "name": {
+            "sharp": "A♯",
+            "flat": "B♭"
+        },
+        "octave": 6,
+        "accidental": true,
+        "holesCovered": [
+            2,
+            5,
+            8,
+            9,
+            10
+        ]
+    },
+    "b6": {
+        "name": "B",
+        "octave": 6,
+        "accidental": false,
+        "holesCovered": [
+            5,
+            8,
+            9,
+            10
+        ]
+    },
+    "c6": {
+        "name": "C",
+        "octave": 6,
+        "accidental": false,
+        "holesCovered": [
+            5,
+            9,
+            10
+        ]
+    },
+    "c6d": {
+        "name": {
+            "sharp": "C♯",
+            "flat": "D♭"
+        },
+        "octave": 6,
+        "accidental": true,
+        "holesCovered": [
+            2,
+            5,
+            9
+        ]
+    },
+    "d6": {
+        "name": "D",
+        "octave": 6,
+        "accidental": false,
+        "holesCovered": [
+            5,
+            9
+        ]
+    },
+    "e6": {
+        "name": "E",
+        "octave": 6,
+        "accidental": false,
+        "holesCovered": [
+            5
+        ]
+    },
+    "f6": {
+        "name": "C",
+        "octave": 6,
+        "accidental": false,
+        "holesCovered": []
+    }
+}
