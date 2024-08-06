@@ -204,7 +204,7 @@
             10
         ]
     },
-    "a6": {
+    "a5": {
         "name": "A",
         "octave": 6,
         "accidental": false,
@@ -216,7 +216,7 @@
             10
         ]
     },
-    "a6b": {
+    "a5b": {
         "name": {
             "sharp": "A♯",
             "flat": "B♭"
@@ -231,7 +231,7 @@
             10
         ]
     },
-    "b6": {
+    "b5": {
         "name": "B",
         "octave": 6,
         "accidental": false,
